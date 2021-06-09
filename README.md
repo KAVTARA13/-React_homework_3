@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Project Link [click to visit](https://naughty-yonath-d903d7.netlify.app).
+Project Link [click to visit](https://mystifying-panini-8c93f6.netlify.app).
 
 ## Available Scripts
 
